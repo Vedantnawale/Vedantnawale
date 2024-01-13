@@ -1,4 +1,4 @@
-![logo](https://github.com/Vedantnawale/Vedantnawale/blob/master/githubbanner.png)
+![logo](https://github.com/Vedantnawale/Vedantnawale/blob/master/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Vedant Nawale</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
 
