@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/7o5L08ajhePjHM5jsK/giphy.gif?cid=ecf05e47o16lo8ny8zd8lbl1vynfmhcmjdnv60pjakvt3roa&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 # 💫 About Me:
-🔭 I’m currently working on open-source contributions.<br>🌱 I’m currently learning Java & DSA<br>💬 Ask me about ReactJS, OpenCV, Git & Github<br>⚡ Fun fact I can easily mingle with people😁<br>👨‍💻 All of my projects are available at [http://vedant-anawale.kesug.com/](http://vedant-anawale.kesug.com/)<br>📝 I regularly write articles on [https://hashnode.com/@Vedantn](https://hashnode.com/@Vedantn).
+🔭 I’m currently working on open-source contributions.<br>🌱 I’m currently learning Java & DSA<br>💬 Ask me about ReactJS, OpenCV, Git & Github<br>⚡ Fun fact I can easily mingle with people😁<br>👨‍💻 All of my projects are available at [https://portfolio-indol-nine-86.vercel.app/](https://portfolio-indol-nine-86.vercel.app/)<br>📝 I regularly write articles on [https://hashnode.com/@Vedantn](https://hashnode.com/@Vedantn).
 
 
 ## 🌐 Socials:
