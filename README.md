@@ -1,6 +1,6 @@
 ![logo](https://github.com/Vedantnawale/Vedantnawale/blob/master/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Vedant Nawale</h1>
-<h3 align="center">A Passionate Software Developer from India</h3>
+<h3 align="center">A Passionate Software Developer from Amravati, Maharashtra, India. Recently graduated in computer engineering from government college of engineering, Yavatmal.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/7o5L08ajhePjHM5jsK/giphy.gif?cid=ecf05e47o16lo8ny8zd8lbl1vynfmhcmjdnv60pjakvt3roa&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
